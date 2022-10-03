@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cs-surya
+- 👋 Hi, I’m @surya
 - 👀 Software programmer
 - 🌱 Learning now
 - 📫 How to reach me ... https://linkedin.com/in/surya-selvaraj-09b375125
