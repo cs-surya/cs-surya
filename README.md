@@ -31,17 +31,17 @@ Relevant modules: Object Oriented Programming Using Java, Operating Systems, Com
 
 ## INTERNSHIPS / EXPERIENCE 
 
-## Web Developer Intern, OpportunityM – London, United Kingdom	   			     Jul 2022 - Oct 2022 
+## Web Developer Intern, OpportunityM – London, United Kingdom	   			     - Jul 2022 - Oct 2022 
 
 •	Involved working with a team of four co-interns and an industry expert and utilizing a range of tools and tech stacks to develop the web application which was hosted on AWS cloud infrastructure.
 •	Gained hands-on industrial experience in front-end technologies such as HTML, CSS, and JS and back-end technology such as Django framework.
 •	Developed knowledge about stripe’s client-side payment integration and in-depth understanding of AWS elastic beanstalk to host web app.
 
-## Online assistant, Sainsbury’s – London, United Kingdom			                               	    Jan 2022 - Apr 2022 
+## Online assistant, Sainsbury’s – London, United Kingdom			                               	   - Jan 2022 - Apr 2022 
 •	Ensured that customer orders run as smoothly as possible. Picked customers’ orders, taking real care in selecting the best quality. 
 •	Improved customer service and communication skills. Undertook various responsibilities and improved time management skills along with a Master's degree.		
 
-## Web Developer Intern, Sniper Technologies – Coimbatore, India			                  May 2018 - Jun 2018 
+## Web Developer Intern, Sniper Technologies – Coimbatore, India			                 - May 2018 - Jun 2018 
 •	Worked in a team of 5 tech professionals, learning constantly from them and striving to make an impact on the organisation as a whole.
 •	Sharply improved the technical skills acquired at university. Carried out both front-end and back-end development for web applications and learned necessary security standards.  
 
