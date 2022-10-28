@@ -1,5 +1,5 @@
 # Surya Chandra Selvaraj
-LinkedIN  - >   linkedin.com/in/cssurya 
+LinkedIN  - >   https://linkedin.com/in/cssurya 
 
 Portfolio - >   https://profile.suryacs.co
 
