@@ -1,18 +1,19 @@
 # Surya Chandra Selvaraj
-Welling, London | +44 7825769581| mail.suryacs@gmail.com |linkedin.com/in/cssurya |profile.suryacs.co
+### LinkedIN  - >   linkedin.com/in/cssurya 
+### Portfolio - >   https://profile.suryacs.co
 
-EDUCATION 
+## EDUCATION 
 
-MSc - Computer Science, Queen Mary University of London, Russel group - (Distinction)              		   2021 - 2022 
-Relevant modules: Design for Human Interaction, Functional Programming, Semi-Structured Data and Advanced Data Modelling, Data Analytics, Security and Authentication and Distributed Systems.
+## MSc - Computer Science, Queen Mary University of London, Russel group - (Distinction)              		   2021 - 2022 
+### Relevant modules: Design for Human Interaction, Functional Programming, Semi-Structured Data and Advanced Data Modelling, Data Analytics, Security and Authentication and Distributed Systems.
 
-Bachelors – Computer Science and Engineering, SKCT, India - (Merit)		                              		   2016 - 2020 
-Relevant modules: Object Oriented Programming Using Java, Operating Systems, Computer Networks, Artificial Intelligence, Software Development, Data Analysis, Internet of Things, Web Technology, Data Warehousing and Mining, Data Science, User Experience Design and Business Intelligence. 
+## Bachelors – Computer Science and Engineering, SKCT, India - (Merit)		                              		   2016 - 2020 
+### Relevant modules: Object Oriented Programming Using Java, Operating Systems, Computer Networks, Artificial Intelligence, Software Development, Data Analysis, Internet of Things, Web Technology, Data Warehousing and Mining, Data Science, User Experience Design and Business Intelligence. 
 
-PROJECTS
+## PROJECTS
 
-Coronavirus pandemic - Causal learning & Machine learning
-(Postgraduate thesis)	•	Constructed Bayesian Network model for covid-19 patients focussing on the Need for oxygen node.
+## Coronavirus pandemic - Causal learning & Machine learning
+### •	Constructed Bayesian Network model for covid-19 patients focussing on the Need for oxygen node.
 •	Utilized unsupervised ML algorithms for causal structure learning and performed analysis on structure learning metrics and computational complexity.
 •	Implemented supervised ML algorithms for the prediction of values for network nodes and obtained an accuracy of 90.5%.
 
