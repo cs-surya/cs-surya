@@ -1,5 +1,5 @@
-Surya Chandra Selvaraj (He/Him)
-Welling, London | +44 7825769581| mail.suryacs@gmail.com |linkedin.com/in/cssurya | git-suryacs | profile.suryacs.co
+# Surya Chandra Selvaraj
+Welling, London | +44 7825769581| mail.suryacs@gmail.com |linkedin.com/in/cssurya |profile.suryacs.co
 
 EDUCATION 
 
